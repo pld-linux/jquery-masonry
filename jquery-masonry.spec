@@ -31,7 +31,6 @@ a mason fitting stones in a wall.
 Summary:	Demo for jQuery.%{plugin}
 Summary(pl.UTF-8):	Pliki demonstracyjne dla pakietu jQuery.%{plugin}
 Group:		Development
-URL:		http://widowmaker.kiev.ua/checkbox/
 Requires:	%{name} = %{version}-%{release}
 
 %description demo
